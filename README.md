@@ -14,8 +14,8 @@ This project is a simple Tic Tac Toe game built using the [Raylib](https://www.r
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/MyRaylibProject.git
-   cd MyRaylibProject
+   git clone https://github.com/GitVladlen/RaylibTicTacToe.git
+   cd RaylibTicTacToe
    ```
 
 2. **Build the Project:**
@@ -28,7 +28,7 @@ This project is a simple Tic Tac Toe game built using the [Raylib](https://www.r
 
 3. **Open the Project in Visual Studio:**
 
-   After running the batch file, a Visual Studio solution file (`MyRaylibProject.sln`) will be created in the `build` directory. Open this file with Visual Studio.
+   After running the batch file, a Visual Studio solution file (`RaylibTicTacToe.sln`) will be created in the `build` directory. Open this file with Visual Studio.
 
 4. **Build and Run:**
 
